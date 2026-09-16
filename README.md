@@ -1,13 +1,12 @@
 <p align="center">
   <a href="https://github.com/Eli-coding">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a8327f&fontSize=54&height=90&width=666&text=Hi!%20%20I'm%20Elizabeth" alt="Hi!  I&#39;m Elizabeth!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a8327f&fontSize=54&height=90&width=666&text=Hi!%20%20I'm%20Elizabeth" alt="Hi!  I&#39;m Elizabeth" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=535&height=44&lines=I%20do%20full%20stack!;Matcha%20on%20the%20rocks%20fuels%20my%20code" alt="Typing headlines" />
-</p>
-
+<
 ### 🚀 About Me
 
 Welcome to my side projects casita!  
