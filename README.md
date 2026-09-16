@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Eli-coding">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a8327f&fontSize=54&height=90&width=666&text=Hi!%20%20I'm%20Elizabeth" alt="Hello World!  It&#39s; Elizabeth✨" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a8327f&fontSize=54&height=90&width=666&text=Hello World!%20%20It's%20Elizabeth" alt="Hello World!It&#39s; Elizabeth✨" />
   </a>
 </p>
 
