@@ -1,11 +1,12 @@
 <p align="center">
   <a href="https://github.com/Eli-coding">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a8327f&fontSize=54&height=90&width=666&text=Hello World!%20%20It's%20Elizabeth" alt="Hello World!It&#39s; Elizabeth✨" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7d0a79&fontSize=54&height=90&width=794&text=Hello!%20I%20am%20Elizabeth%E2%9C%A8" alt="Hello! I am Elizabeth✨" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=535&height=44&lines=I%20do%20full%20stack!;Matcha%20on%20the%20rocks%20fuels%20my%20code" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=535&height=44&lines=I%20do%20full%20stack!;Matcha%20on%20the%20rocks%20fuels%20my%20code" alt="Typing headlines" />
+</p>
 
 ### 🚀 About Me
 
@@ -33,6 +34,7 @@ Make yourself at home — take off your shoes, and please close the windows, I d
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
