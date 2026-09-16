@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Eli-coding">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a8327f&fontSize=54&height=90&width=666&text=Hi!%20%20I'm%20Elizabeth" alt="Hi!  I&#39;m Elizabeth" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a8327f&fontSize=54&height=90&width=666&text=Hi!%20%20I'm%20Elizabeth" alt="Hello!  I&#39;m Elizabeth✨" />
   </a>
 </p>
 
@@ -33,7 +33,6 @@ Make yourself at home — take off your shoes, and please close the windows, I d
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
