@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=535&height=44&lines=I%20do%20full%20stack!;Matcha%20on%20the%20rocks%20fuels%20my%20code" alt="Typing headlines" />
-<
+
 ### 🚀 About Me
 
 Welcome to my side projects casita!  
